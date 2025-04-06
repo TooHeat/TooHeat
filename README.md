@@ -1,5 +1,3 @@
-I am absolutely terrible at coding.
-
-I'm trying to be better.
+Aspiring Apprentice
 
 Lua - Python - JS
